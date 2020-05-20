@@ -111,4 +111,19 @@
         "country": "Romania"
       }
     }
+    {
+    "id": 1007,
+    "name": "Sharleen Hussey",
+    "img": "",
+    "links": {
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/sharleen-hussey-152825145"
+    },
+    "jobTitle": "Hedge Fund Analsyt",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    }
+  }
+
   }
